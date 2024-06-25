@@ -1,1 +1,1 @@
-pip install kaggle
+kaggle=1.6.2
